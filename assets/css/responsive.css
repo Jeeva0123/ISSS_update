@@ -499,6 +499,7 @@
 	.header .toolbar-area .toolbar-sl-share ul {
 		float: none;
 		margin-top: 10px;
+		display: inline-flex;
 	}
 
 	.header .toolbar-area .toolbar-contact p {
