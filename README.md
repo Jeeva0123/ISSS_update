@@ -1,1 +1,0 @@
-# ISSS-Information-Security-Strategi-Solutions
